@@ -1,4 +1,16 @@
 {
+    "name": "kisphp/php-sftp-client",
+    "type": "library",
+    "description": "Tiny PHP Sftp client",
+    "keywords": ["sftp", "ftp", "ssh", "kisphp"],
+    "homepage": "http://www.kisphp.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marius-Bogdan Rizac",
+            "email": "mariusbogdan83@gmail.com"
+        }
+    ],
     "require": {
         "ext-ssh2": "*"
     },
@@ -11,5 +23,3 @@
         }
     }
 }
-
-
