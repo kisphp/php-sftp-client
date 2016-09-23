@@ -2,7 +2,15 @@
 
 ## Installation
 
-......
+Add in composer:
+
+```json
+{
+    "require": {
+        "kisphp/php-sftp-client": "*"
+    }
+}
+```
 
 ## Usage
 
