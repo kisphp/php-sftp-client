@@ -1,5 +1,7 @@
 # Simple PHP SFTP Client
 
+![example workflow](https://github.com/kisphp/php-sftp-client/actions/workflows/phpunit-run.yml/badge.svg)
+
 ## Installation
 
 Add in composer:
