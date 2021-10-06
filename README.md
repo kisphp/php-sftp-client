@@ -9,7 +9,7 @@ Add in composer:
 ```json
 {
     "require": {
-        "kisphp/php-sftp-client": "*"
+        "kisphp/php-sftp-client": "~0.1"
     }
 }
 ```
