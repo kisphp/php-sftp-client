@@ -11,4 +11,4 @@ jobs:
           php-version: '7.4'
           extensions: xdebug, ssh2
       - run: composer install -n
-      - run: vendor/bin/phpunit
+#      - run: vendor/bin/phpunit
