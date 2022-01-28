@@ -1,7 +1,7 @@
 {
     "name": "kisphp/php-sftp-client",
     "type": "library",
-    "description": "Tiny PHP Sftp client",
+    "description": "Tiny PHP SFTP client",
     "keywords": ["sftp", "ftp", "ssh", "kisphp"],
     "homepage": "http://www.kisphp.com",
     "license": "MIT",
@@ -15,7 +15,7 @@
         "ext-ssh2": "*"
     },
     "require-dev": {
-        "symfony/var-dumper": "~3.1"
+        "symfony/var-dumper": "~3.4|~5.4"
     },
     "autoload": {
         "psr-4": {
